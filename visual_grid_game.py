@@ -1,6 +1,7 @@
 # visual_grid_game.py
 import random
 import tkinter as tk
+# hgvcghfcd
 
 
 class VisualGridHuntGame:
